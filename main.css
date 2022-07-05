@@ -19,3 +19,8 @@
     box-shadow: 0 0 10px 0 #000000;
     margin: auto;
 }
+.display-2{
+    font-size: xx-large;
+    font-weight: 300;
+    font: optional;
+}
