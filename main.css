@@ -16,7 +16,7 @@
 }
 .navbar:hover{
     background-color:white;
-    box-shadow: 0 0 10px 0 #000000;
+    box-shadow: 0 0 20px 0 #000000;
     margin: auto;
 }
 .display-2{
@@ -56,4 +56,7 @@
 }
 .dropdown:hover .dropdown-menu a{
     color: black;
+}
+.display-4{
+    color: rgb(241, 106, 151);
 }
